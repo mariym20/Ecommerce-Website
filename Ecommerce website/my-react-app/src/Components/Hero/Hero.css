@@ -1,0 +1,38 @@
+
+.Hero
+{
+    height: 100vh;
+    display: flex;
+    gap: 20px;
+   background: linear-gradient(180deg,#fde1ff , #e1ffea22 , 60%);
+   padding-top: 45px;
+}
+.Hero-left
+
+ {
+     
+     /* padding: 30px; */
+     margin-left: 150px;
+ }
+ .image
+ {
+    display: flex;
+    height: 4em;
+    width: 4em;
+ }
+
+ .Hero-right
+ {
+   display: flex;
+   margin-left: 20em;
+  
+   height: 30em;
+ }
+ .btn
+ {
+    height: 3em;
+    width: 17em;
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+ }

@@ -1,0 +1,46 @@
+.loginsignup
+{
+    
+    margin-left: 130px;
+    width: 80%;
+    height: 80vh;
+    background: #fce3fe;
+}
+.signup-container
+{
+  width: 580px;
+  height: 600px;
+  background: white;
+  margin: auto;
+  padding: 40px 60px;
+}
+.Signup-container h1
+{
+    align-items: center;
+    text-align: center;
+}
+.signup-form 
+{
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    
+}
+.signup-form input
+{
+    width: 40em;
+    height: 4em;
+}
+.loginsignup button
+{
+   margin-top: 2em;
+    width: 40em;
+    height: 4em;
+    border-radius: 0%;
+    background-color: red;
+    color: white;
+}
+.loginsignup  span
+{
+    color: red;
+}
